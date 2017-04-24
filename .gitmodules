@@ -1,0 +1,3 @@
+[submodule "nodejs-container"]
+	path = nodejs-container
+	url = https://github.com/crossbill/nodejs-container.git
