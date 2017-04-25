@@ -1,3 +1,6 @@
 [submodule "nodejs-container"]
 	path = nodejs-container
 	url = https://github.com/crossbill/nodejs-container.git
+[submodule "lemp-container"]
+	path = lemp-container
+	url = https://github.com/crossbill/lemp-container.git
